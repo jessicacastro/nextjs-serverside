@@ -1,0 +1,13 @@
+{
+  "name": "NextJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jessicacastro/nextjs-serverside.git",
+  "author": "Jessica Castro <jessica.castros@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
