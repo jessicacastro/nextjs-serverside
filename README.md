@@ -22,8 +22,8 @@ Com essas três dependências já estamos prontos para iniciar nossa aplicação
 ### :pencil:  Licença MIT
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jessicacastro/nextjs-serverside/blob/master/LICENSE.md) para mais detalhes.
 
+<hr>
 
-<table border="0" width="9999">
-  Feito com ♥ by <a href="https://github.com/jessicacastro">Jessica Castro</a>
-</table>
+Feito com ♥ by <a href="https://github.com/jessicacastro">Jessica Castro</a>
+
   
