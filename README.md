@@ -17,5 +17,5 @@ Com essas três dependências já estamos prontos para iniciar nossa aplicação
 4. Dentro de pages, crie o arquivo index.js: ``touch index.js``
 
 
-#### :pencil: Licença MIT
+:pencil: ## Licença MIT
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jessicacastro/nextjs-serverside/blob/master/LICENSE.md) para mais detalhes.
