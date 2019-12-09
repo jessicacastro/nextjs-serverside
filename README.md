@@ -24,6 +24,21 @@ Com essas três dependências já estamos prontos para iniciar nossa aplicação
 
 3. Crie uma pasta pages com ``mkdir pages``
 4. Dentro de pages, crie o arquivo index.js: ``touch index.js``
+5. Dentro do "package.json" insira o seguinte:
+```
+ "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+  }
+```
+O script "dev" utilizamos em ambiente de desenvolvimento, e cada vez que editarmos um código, ele gerará a build novamente e nos mostratá via live reload a 
+modificaçao na tela.
+
+O script "build" gerará a build com o código totalmente em javascript para enviarmos para o servidor.
+
+Após o build gerado e enviado para o servidor utilizamos o "start" para rodar a build corretamente no servidor.
+
 
 
 ## :pencil:  Licença MIT
