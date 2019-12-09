@@ -1,1 +1,1 @@
-# nextjs-serverside
+# NextJS - Server Side Rendering :computer:
