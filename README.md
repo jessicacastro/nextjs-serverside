@@ -1,4 +1,6 @@
-# NextJS - SERVER-SIDE RENDERING :computer:
+### NextJS: SERVER-SIDE RENDERING :computer:
+
+
 
 #### O QUE É O SERVER SIDE RENDERING? POR QUE É UTILIZADO?
 
@@ -13,3 +15,7 @@ Com essas três dependências já estamos prontos para iniciar nossa aplicação
 
 3. Crie uma pasta pages com ``mkdir pages``
 4. Dentro de pages, crie o arquivo index.js: ``touch index.js``
+
+
+#### :pencil: Licença MIT
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jessicacastro/nextjs-serverside/blob/master/LICENSE.md) para mais detalhes.
