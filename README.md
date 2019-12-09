@@ -15,7 +15,7 @@
 
 Quando robôs indexam os conteúdos do site através de chamadas HTTP, eles acessam o mesmo sem o javascript. O NextJS repassa a responsabilidade para fazer as chamadas iniciais consideradas importantes (como por exemplo para um SEO) para o servidor (NodeJS). Para não perdermos em SEO modificamos essas chamadas direto no servidor passando essas informações para o google, por exemplo, sem que ele perceba.
 
-## INICIANDO E RODANDO A APLICAÇÃO 
+## CONFIGURANDO A APLICAÇÃO 
 
 1. Antes de tudo, rode o comando: ``yarn init -y`` 
 2. Com o package.json criado, rode o comando ``yarn add next react react-dom``
@@ -39,6 +39,13 @@ O script "build" gerará a build com o código totalmente em javascript para env
 
 Após o build gerado e enviado para o servidor utilizamos o "start" para rodar a build corretamente no servidor.
 
+## RODANDO A APLICAÇÃO
+
+Se você não configurou do zero e clonou este repositório, primeiro dê um ``yarn`` na raiz do repositório, após isso poderá rodar o comando abaixo.
+
+Para rodar a aplicação após a configuração do zero e após o comando yarn: ``yarn dev``. 
+
+<hr>
 
 
 ## :pencil:  Licença MIT
