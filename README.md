@@ -6,7 +6,8 @@
   <img src="https://img.shields.io/badge/made%20by-Jessica%20Castro-blue?style=plastic">
   <img src="https://img.shields.io/github/license/jessicacastro/nextjs-serverside?color=blue&style=plastic"> 
   <img src="https://img.shields.io/github/stars/jessicacastro/nextjs-serverside?color=blue&style=plastic"> 
-  <img src="https://img.shields.io/github/forks/jessicacastro/nextjs-serverside?color=blue&style=plastic">
+  <img src="https://img.shields.io/github/forks/jessicacastro/nextjs-serverside?color=blue&style=plastic"> 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jessicacastro/nextjs-serverside?style=plastic">
 </p>
 </td></tr></table>
 
